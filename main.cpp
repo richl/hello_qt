@@ -52,8 +52,7 @@
 
 #include "lcdrange.h"
 
-class MyWidget : public QWidget
-{
+class MyWidget : public QWidget {
 public:
     MyWidget(QWidget *parent = 0);
 };
